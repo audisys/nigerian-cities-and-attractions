@@ -1,0 +1,1595 @@
+[
+	{
+		"state": "fct", 
+		"attractions": [
+			{
+				"name": "Jabi Lake and Park", 
+				"location": "Jabi District, Bala Sokoto Way, Jabi, Abuja"
+			},
+			{
+				"name": "IBB international Golf and Country Club", 
+				"location": "41 Udi Hill Street, Off Aso Drive, Maitama, Abuja"
+			},
+			{
+				"name": "Maitama amusement park", 
+				"location": "16 Usuma Close, Off Usuma Street, Gana Street, Maitama, Abuja, "
+			},
+			{
+				"name": "Silverbird mall and cinemas", 
+				"location": "Plot 1161, Memorial Drive, By Musa Yar'adua Center, Central Business District, Abuja"
+			},
+			{
+				"name": "Millennium park", 
+				"location": "Three Arms Zone, Asokoro, Abuja"
+			},
+			{
+				"name": "National Assembly Complex", 
+				"location": "Three Arms Zone, Garki, Abuja"
+			},
+			{
+				"name": "National Children’s park and zoo", 
+				"location": "Along Aso Clinic Road, Asokoro, Abuja"
+			},
+			{
+				"name": "Wonderland Park", 
+				"location": "Opposite National Stadium, close City Gate, Abuja"
+			},
+			{
+				"name": "Treasure Island (former Zoological Garden)", 
+				"location": "Opp. Area 1 Shopping Centre, Section 2, Area 1, Garki, Abuja"
+			},
+			{
+				"name": "Zuma Rock", 
+				"location": "Kaduna Express Way, Zuba, Abuja"
+			}
+		]	
+	},
+	{
+		"state": "abia", 
+		"attractions": [
+			{
+				"name": "National Gallery of Art", 
+				"location": "plot 42, Government Station Layout, Umuahia"
+			},
+			{
+				"name": "Azumni Blue River, Aba", 
+				"location": "Located between abia and akwa-ibom state"
+			},
+			{
+				"name": "The long juju shrine of Arochukwu", 
+				"location": "Arochukwu"
+			},
+			{
+				"name": "National war museum", 
+				"location": "Umuahia"
+			},
+			{
+				"name": "Ojukwu Bunker", 
+				"location": "Umuahia"
+			},
+			{
+				"name": "Mbonu Emerem Museum of Arts", 
+				"location": "No 39, Faulks Road, Aba"
+			}
+		]
+	},
+	{
+		"state": "adamawa", 
+		"attractions": [
+			{
+				"name": "Mandara Mountains", 
+				"location": "About 190 km lie in the northeastern part of Adamawa state along the Cameroon border"
+			},
+			{
+				"name": "Lamurde Hot Spring", 
+				"location": "Gyakan village"
+			},
+			{
+				"name": "Yola Airport ", 
+				"location": "yola"
+			},
+			{
+				"name": "", 
+				"location": ""
+			},
+			{
+				"name": "", 
+				"location": ""
+			}
+		]
+	},
+	{
+		"state": "akwa-ibom", 
+		"attractions": [
+			{
+				"name": "Ibeno Beach", 
+				"location": "Ibeno"
+			},
+			{
+				"name": "Akwa Ibom International Stadium", 
+				"location": "uyo"
+			},
+			{
+				"name": "ibom plaza", 
+				"location": "uyo"
+			},
+			{
+				"name": "house of tara", 
+				"location": "no 4, Lane Traffic Light 264 Oron Road, Uyo"
+			},
+			{
+				"name": "Lord Luggard’s Resident", 
+				"location": "Ikot Abasi"
+			},
+			{
+				"name": "Raffia City Plaza", 
+				"location": "uyo"
+			},
+			{
+				"name": "Ibom Tropicana Entertainment Center", 
+				"location": "uyo"
+			},
+			{
+				"name": "Ibom e-Library", 
+				"location": "uyo"
+			},
+			{
+				"name": "Vista Restaurant", 
+				"location": "uyo"
+			},
+			{
+				"name": "silverbird cinema", 
+				"location": "uyo"
+			},
+			{
+				"name": "Bridge of no Return", 
+				"location": "ikot abasi"
+			},
+			{
+				"name": "Ibibio Museum and State Park", 
+				"location": "uyo"
+			},
+			{
+				"name": "National Museum of colonial history", 
+				"location": "Wellington Bassey way, Uyo"
+			},
+			{
+				"name": "The amalgamation house", 
+				"location": "uyo"
+			},
+			{
+				"name": "The Playground", 
+				"location": "uyo"
+			},
+			{
+				"name": "Oron Museum", 
+				"location": "oron"
+			},
+			{
+				"name": "discovery park", 
+				"location": "uyo"
+			}
+		]
+	},
+	{
+		"state": "anambra", 
+		"attractions": [
+			{
+				"name": "The palace of the Obi of Onitsha", 
+				"location": "onitsha"
+			},
+			{
+				"name": "Shoprite Mall", 
+				"location": "onitsha"
+			},
+			{
+				"name": "Ogba Waterfalls", 
+				"location": "ogba"
+			},
+			{
+				"name": "awka wonderland", 
+				"location": "awka"
+			},
+			{
+				"name": "Igbo-Ukwu bronzes", 
+				"location": "igbo-ukwu"
+			},
+			{
+				"name": "Rojenny tourist village", 
+				"location": "along Owerri/Onitsha road, Onitsha"
+			},
+			{
+				"name": "Agulu Lake", 
+				"location": "ugulu"
+			},
+			{
+				"name": "Odinani museum", 
+				"location": "Nri village in Anaocha"
+			},
+			{
+				"name": "The Ikenga virgin forest", 
+				"location": "ikenga"
+			},
+			{
+				"name": "Butu Lake", 
+				"location": "butu"
+			},
+			{
+				"name": "Okpu Ana Natural spring", 
+				"location": "Okpu Ana"
+			},
+			{
+				"name": "The Obu Ofo-Nri Museum", 
+				"location": "nri"
+			},
+			{
+				"name": "Alluminium Pot Molding", 
+				"location": "Etiti village in Igbo-Ukwu"
+			},
+			{
+				"name": "The River Niger Bridge", 
+				"location": "Onitsha South"
+			},
+			{
+				"name": "The Onitsha main market", 
+				"location": "onitsha"
+			},
+			{
+				"name": "Kenneth Dike Memorial Library", 
+				"location": "Aroma junction, Awka"
+			},
+			{
+				"name": "The Ogbunike caves.", 
+				"location": "ogbunike"
+			}
+		]
+	},
+	{
+		"state": "bauchi", 
+		"attractions": [
+			{
+				"name": "Yankari Game Reserve", 
+				"location": "yankari"
+			},
+			{
+				"name": "The shau shau iron smelting works", 
+				"location": "bauchi"
+			},
+			{
+				"name": "Wikki Warm Spring", 
+				"location": "bauchi"
+			},
+			{
+				"name": "Marshall Caves", 
+				"location": "bauchi"
+			},
+			{
+				"name": "Tunga Dutse", 
+				"location": "bauchi"
+			},
+			{
+				"name": "Sumu Wildlife", 
+				"location": "ganjuwa"
+			},
+			{
+				"name": "Kalban Hill", 
+				"location": "bauchi"
+			},
+			{
+				"name": "Kariyo Hill", 
+				"location": "bauchi"
+			},
+			{
+				"name": "Paliyaram Hill", 
+				"location": "bauchi"
+			},
+			{
+				"name": "The Tonlong Gorge", 
+				"location": "bauchi"
+			},
+			{
+				"name": "Dukkey Wells", 
+				"location": "bauchi"
+			},
+			{
+				"name": "Panshanu Stone Heaps (Kwandon Kaya)", 
+				"location": "toro"
+			},
+			{
+				"name": "Shadawanka Rock Paintings", 
+				"location": "bauchi"
+			},
+			{
+				"name": "Shira Rock Paintings (Dutsen Damisa)", 
+				"location": "shira"
+			}
+		]
+	},
+	{
+		"state": "bayelsa", 
+		"attractions": [
+			{
+				"name": "Bayelsa State Library", 
+				"location": "Swali Road, PMB 32, Yenagoa"
+			},
+			{
+				"name": "Niger Delta University  (NDU)", 
+				"location": "Wilberforce Island, Bayelsa"
+			},
+			{
+				"name": "Samson Siasia Stadium", 
+				"location": "Mbiama-Yenagoa Road, By Old Water Board Road, Yenagoa"
+			},
+			{
+				"name": "Crunches fried Chicken", 
+				"location": "148 Melford Okilo Road, Yenagoa"
+			},
+			{
+				"name": "Bayelsa Ferry Terminal and Resort", 
+				"location": "yenagoa"
+			},
+			{
+				"name": "Peace Park", 
+				"location": "Mbiama-Yenagoa Road"
+			},
+			{
+				"name": "Pizzeria", 
+				"location": "Da Hutz by INEC Junction, Isaac-Boro Expressway, Yenagoa"
+			}
+		]
+	},
+	{
+		"state": "benue", 
+		"attractions": [
+			{
+				"name": "Enemabia Warm Spring", 
+				"location": "Benue River"
+			},
+			{
+				"name": "Benue Hills", 
+				"location": "Gboko, Benue state"
+			},
+			{
+				"name": "Aper Aku Stadium", 
+				"location": "Lawrence Onoja road, Makurdi, Benue state"
+			},
+			{
+				"name": "Beautiful Minds Children’s Library", 
+				"location": "Plot 474 Jerome Hwande Street, Ankpa Quarters extension, Makurdi"
+			},
+			{
+				"name": "National Gallery of Arts", 
+				"location": "Abu Obe Road, Federal Secretariat, Markurdi"
+			},
+			{
+				"name": "Makurdi Airport", 
+				"location": "Gboko-Makurdi Road , Makurdi"
+			},
+			{
+				"name": "University of Mkar", 
+				"location": "Off Mkar Road, Mkar, Benue"
+			},
+			{
+				"name": "Lush Event Center", 
+				"location": "Old Otukpo Road, Makurdi"
+			},
+			{
+				"name": "Nigeria Airforce Base, Makurdi", 
+				"location": "Gboko-Makurdi Road, Makurdi"
+			},
+			{
+				"name": "NYSC Permanent Orientation Camp, Benue", 
+				"location": "Km 35 Makurdi Gboko Road, Wanune"
+			},
+			{
+				"name": "Benue State University", 
+				"location": "Km 1, Gboko Road, Makurdi"
+			}
+		]
+	},
+	{
+		"state": "borno", 
+		"attractions": [
+			{
+				"name": "Sambisa Game Reserve", 
+				"location": "sambisa"
+			},
+			{
+				"name": "Biu Plateau", 
+				"location": "Upper Benue Basin to the South and the Chad Basin to the North"
+			},
+			{
+				"name": "Chad Basin National Park", 
+				"location": "borno"
+			},
+			{
+				"name": "Mandara Mountains", 
+				"location": "borno"
+			},
+			{
+				"name": "Lake Alau", 
+				"location": "borno"
+			},
+			{
+				"name": "Borno State Museum", 
+				"location": "Along Shehu Lamido way, Borno"
+			},
+			{
+				"name": "Lake Tilla", 
+				"location": "borno"
+			},
+			{
+				"name": "Rabeh’s Fort", 
+				"location": "Dikwa community, Borno"
+			},
+			{
+				"name": "Sanda Kyarimi Park", 
+				"location": "along Shehu Laminu Way., Borno"
+			},
+			{
+				"name": "University of Maiduguri", 
+				"location": "Barma Road, Borno"
+			}
+		]
+	},
+	{
+		"state": "cross river", 
+		"attractions": [
+			{
+				"name": "Obudu Mountain Resort", 
+				"location": "obudu"
+			},
+			{
+				"name": "Agbokim Waterfalls", 
+				"location": "about 17km from Ikom and 315km from Calabar"
+			},
+			{
+				"name": "Kwa Falls", 
+				"location": "Oban division of the Cross River National Park"
+			},
+			{
+				"name": "Slave History Museum", 
+				"location": "site of a 15th-century slave-trading warehouse in Marina Resort, Calabar"
+			},
+			{
+				"name": "Tinapa Resort", 
+				"location": "10km from Calabar"
+			},
+			{
+				"name": "Drill Ranch", 
+				"location": "boki"
+			},
+			{
+				"name": "Cross River National Park", 
+				"location": "calabar"
+			},
+			{
+				"name": "Mary Slessor’s House", 
+				"location": "Akpap Okoyong, Odukpani Local Government Area"
+			},
+			{
+				"name": "Unwind at Torutuga Island", 
+				"location": "Calabar Marina Resort"
+			},
+			{
+				"name": "Calabar Carnival", 
+				"location": "Occurs every December"
+			}
+		]
+	},
+	{
+		"state": "delta", 
+		"attractions": [
+			{
+				"name": "Abraka Turf and Country Club", 
+				"location": "9 Old Sapele-Agbor Road, Oria, Abraka"
+			},
+			{
+				"name": "De Iceberg", 
+				"location": "1 Infant Jesus Road, Opposite Government House, Asaba"
+			},
+			{
+				"name": "Chief Nana’s Place", 
+				"location": "Koko, Warri,"
+			},
+			{
+				"name": "Dontasha’s World", 
+				"location": "Enerhen Road, Warri"
+			},
+			{
+				"name": "Opera Xclusive Lounge", 
+				"location": "Opposite Government House, Asaba"
+			},
+			{
+				"name": "Nelson Mandela Garden of 95 Trees", 
+				"location": "Inside Asaba International Airport, Off Asaba-Benin Expressway, Asaba"
+			},
+			{
+				"name": "Rufes Amusement Park", 
+				"location": "68 Enerehn Road, Warri"
+			},
+			{
+				"name": "Asaba International Airport", 
+				"location": "Off Asaba-Benin Expressway, Asaba"
+			},
+			{
+				"name": "Warri Township Stadium", 
+				"location": "Cemetery Road, Off Warri-Sapele Road, Warri"
+			},
+			{
+				"name": "Pam Fitness Center", 
+				"location": "Ighogbadu Road, Warri"
+			}
+		]
+	},
+	{
+		"state": "ebonyi", 
+		"attractions": [
+			{
+				"name": "Ndibe Sand Beach", 
+				"location": "Ndibe, Afikpo North"
+			},
+			{
+				"name": "National Gallery of Art", 
+				"location": "2 Old Enugu Road, M.O.W. Quarters, Abakaliki"
+			},
+			{
+				"name": "Abakaliki Golf Club", 
+				"location": "Onueke Township Stadium, Abakaliki-Ugep Road, Abakaliki"
+			},
+			{
+				"name": "The Grail Centre", 
+				"location": "45 Nsugbe Street, Abakaliki"
+			},
+			{
+				"name": "Crunches Fried Chicken", 
+				"location": "45, Afikpo Road, Abakaliki"
+			},
+			{
+				"name": "Akanu Ibiam Federal Polytechnic", 
+				"location": "Unwana City"
+			}
+		]
+	},
+	{
+		"state": "edo", 
+		"attractions": [
+			{
+				"name": "Okomu National Park", 
+				"location": "Ovia South-West"
+			},
+			{
+				"name": "Benin City National Museum", 
+				"location": "Ring road round about, Benin city"
+			},
+			{
+				"name": "Ososo Tourist Center", 
+				"location": "edo"
+			},
+			{
+				"name": "Benin Moat", 
+				"location": "edo"
+			},
+			{
+				"name": "Okonni Wildlife Sanctuary", 
+				"location": "edo"
+			},
+			{
+				"name": "Sanik hut", 
+				"location": "28 Adesuwa Grammar School Road, Off Sapele Road, Benin City"
+			},
+			{
+				"name": "Joker Club and Lounge", 
+				"location": "1 Godwin Abbey Way (Limit Road) Off Sapele Road, Benin City"
+			},
+			{
+				"name": "National Gallery of Art", 
+				"location": "Oba Akenzua Cultural Centre, Benin City"
+			},
+			{
+				"name": "Ebohon Cultural centre", 
+				"location": "1 Odenede Street, Off Dumez Street, Ivbiotor Quarters, Benin City"
+			},
+			{
+				"name": "Oba Akenzua Cultural Centre", 
+				"location": "Airport Road, Close to Edo State House of Assembly, Benin City"
+			},
+			{
+				"name": "Benin Airport", 
+				"location": "Airport Road"
+			},
+			{
+				"name": "The Royal Palace of the Oba of Benin", 
+				"location": "edo"
+			}
+		]
+	},
+	{
+		"state": "ekiti", 
+		"attractions": [
+			{
+				"name": "Ikogosi warm Springs", 
+				"location": "Ikogosi-Ekiti, Ikogosi"
+			},
+			{
+				"name": "TakeAway Bite and Eat", 
+				"location": "Plot 1, Adamolekun Estate, Adebayo Area, Ado Ekiti"
+			},
+			{
+				"name": "Ureje Dam", 
+				"location": "Ola Ajaye Street, Ado-Ikere Road, Ekiti"
+			},
+			{
+				"name": "Chicken Republic", 
+				"location": "New Iyin Road, Secretariat, Ekiti."
+			},
+			{
+				"name": "slot", 
+				"location": "Adebayo estate, Former eksu health centre beside energy petrol station, Adebayo road, Ekiti."
+			},
+			{
+				"name": "Arinta Waterfalls", 
+				"location": "along Ibadan Ilesha Expressway, Ekiti."
+			},
+			{
+				"name": "Fujayi Memorial Park", 
+				"location": "Ado Ekiti"
+			},
+			{
+				"name": "Club 15 and Dynamic Lounge", 
+				"location": "Dynamic Way, Irewumi Street, Ado-Ekiti"
+			}
+		]
+	},
+	{
+		"state": "enugu", 
+		"attractions": [
+			{
+				"name": "Ngwo Cave and Waterfall", 
+				"location": "enugu"
+			},
+			{
+				"name": "Cave of Giants", 
+				"location": "enugu"
+			},
+			{
+				"name": "Ezeagu Tourist Complex", 
+				"location": "Ezeagu local government, Enugu"
+			},
+			{
+				"name": "Nike lake Resort", 
+				"location": "Nike Lake Road, Abakpa Nike"
+			},
+			{
+				"name": "Ani Ozalla lake and shtine", 
+				"location": "Ozalla Village"
+			},
+			{
+				"name": "Polo Park Mall", 
+				"location": "Polo Park Ground, Old GRA, Abakaliki Road, Enugu."
+			},
+			{
+				"name": "Awhum Waterfall", 
+				"location": "Awhum town in Udi Local Government Area"
+			},
+			{
+				"name": "Vosan wellness resort", 
+				"location": "5-7 Vosan Drive, Independence Layout, Enugu"
+			},
+			{
+				"name": "Ngwo pine forest", 
+				"location": "Ngwo community, Enugu."
+			},
+			{
+				"name": "Silicon hill", 
+				"location": "Nkalagu Town, Enugu."
+			},
+			{
+				"name": "Klub 042", 
+				"location": "Goshen Estate, Enugu North, Enugu"
+			},
+			{
+				"name": "Magic garden", 
+				"location": "John Nwodo Close, Opposite Fire Service, G.R.A, Enugu."
+			},
+			{
+				"name": "Nnamdi Azikiwe Stadium", 
+				"location": "Ogui Road, By Presidential Road Junction, Enugu"
+			}
+		]
+	},
+	{
+		"state": "gombe", 
+		"attractions": [
+			{
+				"name": "Mbormi Battle Ground", 
+				"location": "Nafada, Gombe"
+			},
+			{
+				"name": "Gombe lawanti international airport", 
+				"location": "Along Bauchi-Gombe Road, Lawanti, Gombe"
+			},
+			{
+				"name": "Emir of Gombe Palace", 
+				"location": "Dukku Road, By PDP Road Roundabout, Gombe"
+			},
+			{
+				"name": "Abubakar Umar Memorial Stadium", 
+				"location": "Dukku Road, Opp. Gombe Mega Park, Gombe."
+			},
+			{
+				"name": "Lake Dadin Kowa", 
+				"location": "gombe"
+			},
+			{
+				"name": "Lame Burra Game Reserve", 
+				"location": "gombe"
+			},
+			{
+				"name": "Gombe state University", 
+				"location": "Shamaki Ward, Tudun Wada, Gombe"
+			}
+		]
+	},
+	{
+		"state": "imo", 
+		"attractions": [
+			{
+				"name": "Mbari Cultural Center", 
+				"location": "Mbari Street, Owerri,"
+			},
+			{
+				"name": "The Dan Anyiam Stadium", 
+				"location": "Wetheral Road, Imo."
+			},
+			{
+				"name": "Jacks and Parks", 
+				"location": "imo"
+			},
+			{
+				"name": "Sam Mbakwe International Cargo Airport", 
+				"location": "imo"
+			},
+			{
+				"name": "Orange Room", 
+				"location": "Off Goddy Onuoha Crescent, Off Sam Mbakwe Avenue, Owerri"
+			},
+			{
+				"name": "Ceilo event centre", 
+				"location": "Plot 8 Pocket Layout, Ochiedike Road, Owerri,"
+			},
+			{
+				"name": "Mimi place", 
+				"location": "Plot 5046, All Seasons Avenue, Beside All Seasons Hotel, New Owerri,"
+			},
+			{
+				"name": "Jacaranda Casino, Owerri", 
+				"location": "Concorde Boulevard, Off Port Harcourt Road, Owerri"
+			},
+			{
+				"name": "Oguta lake", 
+				"location": "Oguta lake, Oguta local government, Imo"
+			}
+		]
+	},
+	{
+		"state": "jigawa", 
+		"attractions": [
+			{
+				"name": "Birnin Kudu Rock Paintings", 
+				"location": "Birnin Kudu Jigawa"
+			},
+			{
+				"name": "Baturiya Bird Sanctuary", 
+				"location": "Baturiya , Jigawa"
+			},
+			{
+				"name": "Amaryawa Rock Range", 
+				"location": "Amaryawa, Roni, Jigawa"
+			},
+			{
+				"name": "Tomb of Capatin Philips", 
+				"location": "Hadeija, Jigawa"
+			},
+			{
+				"name": "Gwaram Ruins", 
+				"location": "Gwaram, Jigawa"
+			},
+			{
+				"name": "Emir of Dutse Palace", 
+				"location": "Emir Palace Road, Garu, Jigawa"
+			}
+		]
+	},
+	{
+		"state": "kaduna", 
+		"attractions": [
+			{
+				"name": "Kaduna polo club", 
+				"location": "6 Waff Road, Kaduna"
+			},
+			{
+				"name": "Lugard's footbridge", 
+				"location": "General Hassan Usman Katsina Park , Kaduna"
+			},
+			{
+				"name": "Nok Art", 
+				"location": "Nok village, Kaduna"
+			},
+			{
+				"name": "Kajuru Castle", 
+				"location": "Kachia road, Kajuru, Kaduna"
+			},
+			{
+				"name": "Kofar Gamji Park", 
+				"location": "kaduna"
+			},
+			{
+				"name": "Kamuku National Park", 
+				"location": "kaduna"
+			},
+			{
+				"name": "Matsirga Waterfalls", 
+				"location": "kaduna"
+			},
+			{
+				"name": "Kaduna Golf Club", 
+				"location": "1 Golf Course Road, Malali New Extension, Kaduna"
+			},
+			{
+				"name": "Barcode Lounge", 
+				"location": "Plot B4 Uganda Street, Barnawa, Kaduna."
+			},
+			{
+				"name": "The Castle Lounge", 
+				"location": "2, Garba Abbas Street, Barnawa G.R.A, Kaduna"
+			},
+			{
+				"name": "Oasis Stayfit Gym", 
+				"location": "57 Isa Kaita Road, Off Alkali Road, Kaduna North, Kaduna"
+			},
+			{
+				"name": "Lugard Hall", 
+				"location": "Coronation Crescent, Independence Way, Kaduna, Kaduna"
+			},
+			{
+				"name": "Empire Lounge", 
+				"location": "19/20 Mozambique Road, Barnawa, Kaduna"
+			},
+			{
+				"name": "Gusau Amusement Park", 
+				"location": "Igala Housing Estate, Gusau, Kaduna"
+			}
+		]
+	},
+	{
+		"state": "kano", 
+		"attractions": [
+			{
+				"name": "Gidan Makama Museum", 
+				"location": "kano"
+			},
+			{
+				"name": "Challawa Gorge Dam", 
+				"location": "kano"
+			},
+			{
+				"name": "Ado Bayero Mall", 
+				"location": "Zoo Road, Kano"
+			},
+			{
+				"name": "Kano City wall", 
+				"location": "kano"
+			},
+			{
+				"name": "Pizza and Burger Hott", 
+				"location": "131 Lamido Crescent, Kano"
+			},
+			{
+				"name": "Jalsa Restaurant", 
+				"location": "3, Bompai Road, GRA, Kano"
+			},
+			{
+				"name": "Cilantro Restaurant and Lounge", 
+				"location": "67, Sultan Road, Kano"
+			},
+			{
+				"name": "Kano Polo Club", 
+				"location": "1 Club Road, Off Bard Road, Kano"
+			},
+			{
+				"name": "Kano Golf Club", 
+				"location": "Murtala Mohammed Way, Kano"
+			},
+			{
+				"name": "Kofar Mata Dyeing Pits", 
+				"location": "Muritala Mohammed Road, Kano"
+			},
+			{
+				"name": "Tiga Dam", 
+				"location": "Tiga, Kano"
+			},
+			{
+				"name": "Audu Bako Zoo", 
+				"location": "Zoo Road, Kano"
+			},
+			{
+				"name": "Roxy Amusement Park", 
+				"location": "Ahmadu Bello Way, Kano"
+			}
+		]
+	},
+	{
+		"state": "katsina", 
+		"attractions": [
+			{
+				"name": "Emir of Katsina Palace", 
+				"location": "M. Dikko Road, By IBB Way Junction, Shaiskawa, Katsina"
+			},
+			{
+				"name": "Karkanda Stadium", 
+				"location": "Mani Road, Gabasawa New Layout, Katsina"
+			},
+			{
+				"name": "Emir of Daura Palace", 
+				"location": "Close to The Central Square (The Kangiwa), Katsina"
+			},
+			{
+				"name": "Katsina Township Stadium", 
+				"location": "Nagoggo Road, Katsina"
+			}
+		]
+	},
+	{
+		"state": "kebbi", 
+		"attractions": [
+			{
+				"name": "Heroes Land", 
+				"location": "Rafin Atiku roundabout, Birnin Kebbi"
+			},
+			{
+				"name": "Sir Ahmadu Bello International Airport", 
+				"location": "Jega-Janzomo-Ambursa Road, Kebbi"
+			},
+			{
+				"name": "The Dope Restaurant", 
+				"location": "5, Aliko Street, Kebbi"
+			},
+			{
+				"name": "Argungu", 
+				"location": "Argungu City Argungu LGA, Kebbi"
+			},
+			{
+				"name": "Kanta Museum", 
+				"location": "Argungu lga kebbi state, Kebbi"
+			},
+			{
+				"name": "Girmache Shrine", 
+				"location": "close to Zuru town zuru local govt area, Kebbi"
+			}
+		]
+	},
+	{
+		"state": "kogi", 
+		"attractions": [
+			{
+				"name": "Lokoja Confluence Stadium", 
+				"location": "Zone 8 Link Road, Off Kabba Road, Kogi"
+			},
+			{
+				"name": "Lord Lugard's Rest House", 
+				"location": "Ado Ibrahim-Panti Road, Lokoja, Kogi"
+			},
+			{
+				"name": "Lokoja Confluence", 
+				"location": "Beach Road, Kogi"
+			},
+			{
+				"name": "Mount Patti", 
+				"location": "Ado Ibrahim-Panti Road, Lokoja"
+			},
+			{
+				"name": "Lord Lugards Residence and Office", 
+				"location": "New Layout, GRA, Lokoja"
+			},
+			{
+				"name": "Gabo Escarpment Nature Reserve", 
+				"location": "kogi"
+			},
+			{
+				"name": "More Grace Supermarket", 
+				"location": "Suite 262 salihu Ibrahim way, opposite federal medical centre, Lokoja"
+			},
+			{
+				"name": "Misi T Restaurant and Bakery", 
+				"location": "Block 1 ,Aliyu Attah Road, Lokoja"
+			}
+		]
+	},
+	{
+		"state": "kwara", 
+		"attractions": [
+			{
+				"name": "Owu waterfalls", 
+				"location": "Owu Isin local government, Kwara"
+			},
+			{
+				"name": "Asa Dam", 
+				"location": "Asa dam road, Ilorin, Kwara"
+			},
+			{
+				"name": "Imoleboja Rock Shelter", 
+				"location": "Kwara"
+			},
+			{
+				"name": "Dada Pottery", 
+				"location": "Kwara"
+			},
+			{
+				"name": "Jebba", 
+				"location": "Kwara"
+			},
+			{
+				"name": "Esię Museum", 
+				"location": "Kwara"
+			},
+			{
+				"name": "Okuta Ilorin", 
+				"location": "Idi-Ape Area of Ilorin, Kwara"
+			},
+			{
+				"name": "Viva Cinema", 
+				"location": "Fate road, Kwara Mall , Kwara"
+			},
+			{
+				"name": "Palms Shopping Mall", 
+				"location": "Plot 1, Fate Road, GRA Beside NTA, Ilorin, Kwara"
+			},
+			{
+				"name": "Sobi Hill", 
+				"location": "Sobi community, Kwara"
+			},
+			{
+				"name": "Mungo Park Monument", 
+				"location": "Hill side, Along Niger Bridge, Gungu, Jebba, Kwara"
+			},
+			{
+				"name": "Succoth Valley Gardens", 
+				"location": "Yinka Dopemu Close, Off Catchment Road, Kwara"
+			}
+		]
+	},
+	{
+		"state": "lagos", 
+		"attractions": [
+			{
+				"name": "Freedom Park", 
+				"location": "Hospital Road, Marina, Lagos"
+			},
+			{
+				"name": "Nike Arts Gallery", 
+				"location": "Elegushi Road, off Lekki-Epe Expressway"
+			},
+			{
+				"name": "Terra Kulture", 
+				"location": "Tiamiyu Savage Street, off the famous Ahmadu Bello Way"
+			},
+			{
+				"name": "Elegushi Beach", 
+				"location": "Lekki in lagos"
+			},
+			{
+				"name": "National Museum", 
+				"location": "National Museum, Onikan"
+			},
+			{
+				"name": "Iga Idugaran, Isale Eko", 
+				"location": "Lagos island"
+			},
+			{
+				"name": "The bar Beach", 
+				"location": "Victoria Island, Bar - Beach, Ahmadu Bello Way, Lagos"
+			},
+			{
+				"name": "La Campagne Tropicana Beach", 
+				"location": "Ikegan, Ibeju-Lekki Local Government Area, Lekki/Epe Expressway, Lagos State"
+			},
+			{
+				"name": "Lekki Leisure Lake", 
+				"location": "Block 1, Plot 3, Okunda Blue Water Tourism Scheme , Lekki, Lagos State"
+			},
+			{
+				"name": "Jhalobia Recreation Parks and Garden", 
+				"location": "M/M International Airport Road, Between Hajj Camp and Ajao Estate , Lagos"
+			},
+			{
+				"name": "Funtopia water park", 
+				"location": "Lekki Estate Phase 1, Ibeju Lekki, Lagos"
+			},
+			{
+				"name": "Eko Atlantic Economic City", 
+				"location": "Off Ahmadu Bello Way, Bar Beach, Victoria Island, Lagos"
+			}
+		]
+	},
+	{
+		"state": "nassarawa", 
+		"attractions": [
+			{
+				"name": "Eggon Hills", 
+				"location": "Nassarawa"
+			},
+			{
+				"name": "Farin Ruwa Falls", 
+				"location": "Farin Ruwa Development Area, under Wamba Local Government Area of Nasarawa State"
+			},
+			{
+				"name": "Bingham University", 
+				"location": "KM 26 Abuja-Keffi Expressway Kodope, Nassarawa."
+			},
+			{
+				"name": "Oku Akpa Rock and Picnic Centre", 
+				"location": "Nassarawa village"
+			},
+			{
+				"name": "National Gallery of Arts", 
+				"location": "lafia"
+			},
+			{
+				"name": "Karofi Dying Centre", 
+				"location": "Kofar Fada, Lafia Nasarawa"
+			},
+			{
+				"name": "Hunki Ox- Bow Lake", 
+				"location": "Nassarawa"
+			}
+		]
+	},
+	{
+		"state": "niger", 
+		"attractions": [
+			{
+				"name": "The Kainji National Park", 
+				"location": "Kainji, Niger State"
+			},
+			{
+				"name": "Gurara Water Falls", 
+				"location": "Gurara, Niger state"
+			},
+			{
+				"name": "Bida Brass Works", 
+				"location": "Bida, Niger state"
+			},
+			{
+				"name": "Ladi Kwali Pottery Centre", 
+				"location": "Niger"
+			},
+			{
+				"name": "National Gallery Of Art", 
+				"location": "Minna"
+			},
+			{
+				"name": "Minna Airport", 
+				"location": "Minna"
+			},
+			{
+				"name": "Baro Empire Hills", 
+				"location": "Baro, Niger state"
+			},
+			{
+				"name": "Baro Inland Water Port", 
+				"location": "Baro, Niger"
+			},
+			{
+				"name": "Kwanti Nature Reserve", 
+				"location": "niger"
+			},
+			{
+				"name": "moodle", 
+				"location": "niger"
+			}
+		]
+	},
+	{
+		"state": "ogun", 
+		"attractions": [
+			{
+				"name": "The Alumo Rock", 
+				"location": "Ikija Road, Abeokuta, Ogun State"
+			},
+			{
+				"name": "Birikisu Sungbo Shrine", 
+				"location": "Oke Eri near Ijebu Ode, off the Ijebu-Ode/Ibadan Road., Ogun"
+			},
+			{
+				"name": "June 12 Cultural Center", 
+				"location": "Cultural Center, Kuto, Abeokuta"
+			},
+			{
+				"name": "Living Faith Tabernacle Worldwide", 
+				"location": "Km. 10, Idiroko Road, Ota, Ogun"
+			},
+			{
+				"name": "Lisabi Sacred Forest", 
+				"location": "Ogun"
+			},
+			{
+				"name": "National Museum", 
+				"location": "Abeokuta"
+			},
+			{
+				"name": "Centenary Hall", 
+				"location": "Abeokuta"
+			},
+			{
+				"name": "Osuuru Water Spring", 
+				"location": "Ogun"
+			},
+			{
+				"name": "Oyan Dam", 
+				"location": "Abeokuta North, Ogun"
+			},
+			{
+				"name": "Omo Forest Reserve", 
+				"location": "Ogun"
+			},
+			{
+				"name": "Obasanjo Farm", 
+				"location": "otta"
+			},
+			{
+				"name": "MKO Abiola Stadium", 
+				"location": "IBB Boulevard, Kuto, Abeokuta, Ogun."
+			}
+		]
+	},
+	{
+		"state": "ondo", 
+		"attractions": [
+			{
+				"name": "The Oke-Idanre Hill", 
+				"location": "Oke-Idanre, Ondo State"
+			},
+			{
+				"name": "Owo Museum of Antiquities", 
+				"location": "Akure"
+			},
+			{
+				"name": "Cave of Ashes Isarun", 
+				"location": "Ondo"
+			},
+			{
+				"name": "Ebomi Lake", 
+				"location": "Ondo"
+			},
+			{
+				"name": "Igbo Olodumare", 
+				"location": "Ondo"
+			},
+			{
+				"name": "Glass Hall Event Centre", 
+				"location": "Ondo"
+			},
+			{
+				"name": "02 Base Arena", 
+				"location": "Ondo"
+			},
+			{
+				"name": "EFYx Health Club and Spa", 
+				"location": "Ondo"
+			},
+			{
+				"name": "Smokin Hills Golf Resort", 
+				"location": "Ondo"
+			},
+			{
+				"name": "Filmhouse Cinema", 
+				"location": "akure"
+			}
+		]
+	},
+	{
+		"state": "osun", 
+		"attractions": [
+			{
+				"name": "The Osun-Osogbo Grove", 
+				"location": "Oshogbo, Osun State"
+			},
+			{
+				"name": "Irin Ijesha WaterFalls", 
+				"location": "Osun State"
+			},
+			{
+				"name": "MicCom Golf", 
+				"location": "ada ikirun, osun"
+			},
+			{
+				"name": "Oranmiyan Staff", 
+				"location": "Along Ondo-Ife Road, Mopa, Arubidi, Ife, Osun"
+			},
+			{
+				"name": "Finger Licking Restaurant and Bar", 
+				"location": "2 Wole-Ola Street, Off Gbongan-Ibadan Road, Oshogbo"
+			},
+			{
+				"name": "Bowen University", 
+				"location": "Along Ikire-Iwo Road, Iwo"
+			},
+			{
+				"name": "Zenababs Half Moon Resort", 
+				"location": "Prince Oladele Olashore Way, Ilo Aiyegunle, Ilesha"
+			},
+			{
+				"name": "Obatala Centre of Creative Arts", 
+				"location": "Iragbiji, Osun"
+			},
+			{
+				"name": "Ooni if Ife Palace", 
+				"location": "Enuwa Square, off Aderemi Road, Ife"
+			}
+		]
+	},
+	{
+		"state": "oyo", 
+		"attractions": [
+			{
+				"name": "International Institute of Tropical Agriculture", 
+				"location": "KM 40 Along The Old Oyo Road, PMB 5320, Oyo"
+			},
+			{
+				"name": "IITA forest", 
+				"location": "Oyo Road, Ibadan"
+			},
+			{
+				"name": "Agodi Park", 
+				"location": "Parliament Road, Oyo"
+			},
+			{
+				"name": "Old Oyo National Park", 
+				"location": "oyo"
+			},
+			{
+				"name": "Cocoa House", 
+				"location": "Dugbe business district, Oyo"
+			},
+			{
+				"name": "National Museum of National Unity", 
+				"location": "ibadan"
+			},
+			{
+				"name": "Mapo Hall", 
+				"location": "ibadan"
+			},
+			{
+				"name": "Bower’s Tower", 
+				"location": "ibadan"
+			},
+			{
+				"name": "Pete’s Bar", 
+				"location": "ibadan"
+			},
+			{
+				"name": "Heritage Mall", 
+				"location": "ibadan"
+			},
+			{
+				"name": "Koko Dome Restaurant and Night Club", 
+				"location": "ibadan"
+			},
+			{
+				"name": "The Ventura Mall", 
+				"location": "ibadan"
+			}
+		]
+	},
+	{
+		"state": "plateau", 
+		"attractions": [
+			{
+				"name": "Jos Wildlife park", 
+				"location": "Jos"
+			},
+			{
+				"name": "Wase Rock", 
+				"location": ""
+			},
+			{
+				"name": "Jos Museum", 
+				"location": ""
+			},
+			{
+				"name": "Riyon Rocks", 
+				"location": ""
+			},
+			{
+				"name": "Kura Falls", 
+				"location": ""
+			},
+			{
+				"name": "Shere Hills", 
+				"location": ""
+			},
+			{
+				"name": "Rayfield Holiday Resort", 
+				"location": ""
+			},
+			{
+				"name": "AfriOne Café", 
+				"location": ""
+			},
+			{
+				"name": "Bevelyns Restaurant", 
+				"location": ""
+			},
+			{
+				"name": "Solomon Lar Amusement Park", 
+				"location": ""
+			},
+			{
+				"name": "Southern Fried Chicken", 
+				"location": "Jos"
+			}
+		]
+	},
+	{
+		"state": "rivers", 
+		"attractions": [
+			{
+				"name": "The Isaac Boro Garden Park", 
+				"location": "old GRA Port Harcourt, Rivers State"
+			},
+			{
+				"name": "The Port Harcourt Tourist Beach", 
+				"location": "Port Harcourt, Rivers State"
+			},
+			{
+				"name": "Port Harcourt Tourist Beach", 
+				"location": "GRA phase 2, Port Harcourt"
+			},
+			{
+				"name": "Ifoko Beach", 
+				"location": "Elem Ifoko, port harcourt"
+			},
+			{
+				"name": "Asia Town", 
+				"location": "24 Force Avenue, Old GRA Port- Harcourt"
+			},
+			{
+				"name": "Barracuda Bar", 
+				"location": ""
+			},
+			{
+				"name": "Blue Elephant restaurant", 
+				"location": "King porekule road, portharcourt"
+			},
+			{
+				"name": "Port Harcourt polo club", 
+				"location": "portharcourt"
+			},
+			{
+				"name": "Cosmo Lounge", 
+				"location": "portharcourt"
+			},
+			{
+				"name": "Palomino Body Shop", 
+				"location": "portharcourt"
+			},
+			{
+				"name": "Blinkx Lounge", 
+				"location": "portharcourt"
+			},
+			{
+				"name": "The Hub", 
+				"location": "portharcourt"
+			},
+			{
+				"name": "Tilapia and Tinz", 
+				"location": "portharcourt"
+			}
+		]
+	},
+	{
+		"state": "sokoto", 
+		"attractions": [
+			{
+				"name": "The Surame Cultural Landscape", 
+				"location": "Surame, Sokoto State"
+			},
+			{
+				"name": "Sultan of Sokoto Palace", 
+				"location": ""
+			},
+			{
+				"name": "Tomb of Usman Dan Fodio", 
+				"location": ""
+			},
+			{
+				"name": "Waziri Junaidu History and Culture Museum", 
+				"location": ""
+			},
+			{
+				"name": "Sokoto Museum", 
+				"location": ""
+			},
+			{
+				"name": "Sultan Abubakar III International Airport", 
+				"location": ""
+			},
+			{
+				"name": "Goronyo Dam", 
+				"location": ""
+			},
+			{
+				"name": "National Gallery of Art", 
+				"location": ""
+			}
+		]
+	},
+	{
+		"state": "taraba", 
+		"attractions": [
+			{
+				"name": "Mambilla Plateau", 
+				"location": "mambilla"
+			},
+			{
+				"name": "Gashaka Gumti National Park", 
+				"location": ""
+			},
+			{
+				"name": "Chappal Waddi", 
+				"location": ""
+			},
+			{
+				"name": "Cambari Game Reserve", 
+				"location": ""
+			},
+			{
+				"name": "Kashimbila Game Reserve", 
+				"location": ""
+			},
+			{
+				"name": "Jolly Nyame Stadium", 
+				"location": ""
+			}
+		]
+	},
+	{
+		"state": "yobe", 
+		"attractions": [
+			{
+				"name": "Potiskum Emirate Concil  Palace", 
+				"location": "potiskum"
+			}
+		]
+	},
+	{
+		"state": "zamfara", 
+		"attractions": [
+			{
+				"name": "National Gallery Of Art", 
+				"location": "Zamfara"
+			},
+			{
+				"name": "Kwiambana Forest Reserve", 
+				"location": ""
+			},
+			{
+				"name": "Jifatu Shopping Mall", 
+				"location": "gusau"
+			},
+			{
+				"name": "Kiyawa City Walls", 
+				"location": ""
+			},
+			{
+				"name": "Bakalori Dam", 
+				"location": ""
+			},
+			{
+				"name": "Namoda’s Tomb", 
+				"location": "Kauran Namoda"
+			}
+		]
+	}
+]
