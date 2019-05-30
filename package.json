@@ -1,11 +1,7 @@
 {
-  "name": "nigerian-cities-and-attraction",
+  "name": "nigerian-cities-and-attractions",
   "author": "Godwin Gabriel",
   "license": "MIT",
-  "dependencies": {
-
-  },
-  "devDependencies": {
-    
-  }
+  "version": "1.0.0",
+  "main": "index.js"
 }
